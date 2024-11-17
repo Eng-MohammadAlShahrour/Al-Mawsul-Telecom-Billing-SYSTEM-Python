@@ -36,10 +36,15 @@ Make sure you have Python 3.x installed on your system.
 Welcome to Al-Mawsul Telecommunication Company!
 
 Enter customer's name (e.g., MOHAMMAD): 
+
 Enter customer's mobile number (e.g., +963955200799): 
-Enter number of local SMS: 
-Enter number of international SMS: 
-Enter number of local call minutes: 
+
+Enter number of local SMS:
+
+Enter number of international SMS:
+
+Enter number of local call minutes:
+
 Enter number of international call minutes: 
 
 Customer: MOHAMMAD
