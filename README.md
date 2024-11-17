@@ -48,7 +48,9 @@ Enter number of local call minutes:
 Enter number of international call minutes: 
 
 Customer: MOHAMMAD
+
 Mobile Number: +963955200799
+
 Total Bill: 1800 SYP
 
 Customer with the highest bill: MOHAMMAD
@@ -58,4 +60,5 @@ MOHAMMAD: 1800 SYP
 ... (other customers)
 
 Customer data written to customer_bills.txt
+
 Thank you for choosing Al-Mawsul Telecommunication Company! We are always here to serve you.
