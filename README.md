@@ -31,7 +31,7 @@ To run this project on your local machine, follow these steps:
 
 Make sure you have Python 3.x installed on your system.
 
-### Example Output
+## Example Output
 
 Welcome to Al-Mawsul Telecommunication Company!
 Enter customer's name (e.g., MOHAMMAD): 
