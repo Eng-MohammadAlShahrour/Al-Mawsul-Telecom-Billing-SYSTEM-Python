@@ -34,6 +34,7 @@ Make sure you have Python 3.x installed on your system.
 ## Example Output
 
 Welcome to Al-Mawsul Telecommunication Company!
+
 Enter customer's name (e.g., MOHAMMAD): 
 Enter customer's mobile number (e.g., +963955200799): 
 Enter number of local SMS: 
