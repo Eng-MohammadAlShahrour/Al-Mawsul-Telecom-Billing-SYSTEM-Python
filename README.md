@@ -78,3 +78,6 @@ MOHAMMAD: 1800 SYP
 Customer data written to customer_bills.txt
 
 Thank you for choosing Al-Mawsul Telecommunication Company! We are always here to serve you.
+
+# Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For bug reports or feature requests, please open an issue.
