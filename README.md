@@ -34,7 +34,6 @@ Make sure you have Python 3.x installed on your system.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Eng-MohammadAlShahrour/Al-Mawsul-Telecom-Billing-SYSTEM-Python.git
-   Navigate to the project directory:
 
 2-Navigate to the project directory:
 
