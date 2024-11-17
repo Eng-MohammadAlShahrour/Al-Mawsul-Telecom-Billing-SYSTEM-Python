@@ -30,6 +30,20 @@ To run this project on your local machine, follow these steps:
 ### Prerequisites
 
 Make sure you have Python 3.x installed on your system.
+# Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Eng-MohammadAlShahrour/Al-Mawsul-Telecom-Billing-SYSTEM-Python.git
+   Navigate to the project directory:
+
+2-Navigate to the project directory:
+
+
+cd Al-Mawsul-Telecom-Billing-SYSTEM-Python
+
+3-Ensure you have Python installed (Python 3.x is recommended).
+
 
 ## Example Output
 
