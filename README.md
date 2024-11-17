@@ -43,7 +43,7 @@ cd Al-Mawsul-Telecom-Billing-SYSTEM-Python
 3-Ensure you have Python installed (Python 3.x is recommended).
 
 ### Usage
-bash
+
 python Al-Mawsul-Telecom-Billing-SYSTEM-Python
 
 
